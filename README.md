@@ -1,6 +1,6 @@
 # 📘 Machine Learning Course – Jupyter Notebooks
 
-This repository contains my homework assignments for a university-level Machine Learning course. Each notebook includes hands-on implementations of core ML algorithms and techniques, completed as part of the coursework. The goal of these notebooks is to deepen theoretical understanding through practical experimentation using Python and libraries such as NumPy, PyTorch, pandas, scikit-learn, and matplotlib.
+This repository contains my projects for a university-level Machine Learning course. Each notebook includes hands-on implementations of core ML algorithms and techniques, completed as part of the coursework. The goal of these notebooks is to deepen theoretical understanding through practical experimentation using Python and libraries such as NumPy, PyTorch, pandas, scikit-learn, and matplotlib.
 
 ---
 
