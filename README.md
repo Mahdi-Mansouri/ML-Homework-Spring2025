@@ -11,7 +11,7 @@ This repository contains my projects for a university-level Machine Learning cou
 | [01 - HW1](HW1/IML_CHW1.ipynb) | Implemented Gradient Descent and AdaGrad algorithms. |
 | [02 - Regression](HW2/Regression.ipynb) | Implemented Simple Linear Regression using seaborn.regplot, manual implementation, Scipy and Scikit-Learn. Implementated Multiple Linear Regression with L2 and L1 regularization. Implementated Bineary and Multinomail Logistic Regression with and without regularization. |
 | [03 - MultilayerPerceptron and CNN](HW3/) | Manual implemented Mulity Layer Perceptron; MLP using PyTorch; MLP with several hidden layers, on MNIST; CNN design and train on a simple dataset. CNN training using ResNet18 model. |
-
+| [04 - Kernel Methods and Decision Tree](HW2/Regression.ipynb) | Implemented an SVM classifier using kernel methods to transorm to higher dimension space. And implemented a Decision Tree to process tweets and used Bag of Words for bagging. |
 ---
 
 ## 📄 License
